@@ -86,5 +86,127 @@
         }
       }
     ]
+  },
+  {
+    "image": "20260720_110228_78e72066-638c-4096-bec9-b6cb7086fc4c.png",
+    "timestamp": "2026-07-20 11:02:29",
+    "detections": [
+      {
+        "name": "zalabia",
+        "confidence": 92.6,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 430.9,
+          "y1": 259.7,
+          "x2": 1432.0,
+          "y2": 975.5
+        }
+      },
+      {
+        "name": "cay",
+        "confidence": 81.8,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 89.4,
+          "y1": 119.1,
+          "x2": 475.4,
+          "y2": 664.2
+        }
+      }
+    ]
+  },
+  {
+    "image": "20260720_114256_e04897e7-8b82-4183-bc6f-736cf5c6d789.png",
+    "model": "food",
+    "timestamp": "2026-07-20 11:42:56",
+    "detections": [
+      {
+        "name": "zalabia",
+        "confidence": 86.5,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 10.0,
+          "y1": 553.3,
+          "x2": 664.0,
+          "y2": 1115.1
+        }
+      }
+    ]
+  },
+  {
+    "image": "20260720_120040_78e72066-638c-4096-bec9-b6cb7086fc4c.png",
+    "model": "food",
+    "timestamp": "2026-07-20 12:00:40",
+    "detections": [
+      {
+        "name": "zalabia",
+        "confidence": 92.6,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 430.9,
+          "y1": 259.7,
+          "x2": 1432.0,
+          "y2": 975.5
+        }
+      },
+      {
+        "name": "cay",
+        "confidence": 81.8,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 89.4,
+          "y1": 119.1,
+          "x2": 475.4,
+          "y2": 664.2
+        }
+      }
+    ]
+  },
+  {
+    "image": "20260720_120702_9928c8aa-0493-4092-b53f-2bccb225ed08.png",
+    "model": "cloth",
+    "timestamp": "2026-07-20 12:07:03",
+    "detections": [
+      {
+        "name": "Jallabeya",
+        "confidence": 90.2,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 535.3,
+          "y1": 451.1,
+          "x2": 1003.7,
+          "y2": 1400.1
+        }
+      },
+      {
+        "name": "Thobe",
+        "confidence": 88.8,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 55.2,
+          "y1": 543.4,
+          "x2": 457.5,
+          "y2": 1402.0
+        }
+      }
+    ]
+  },
+  {
+    "image": "20260720_122537_TEST.JPG",
+    "model": "food",
+    "timestamp": "2026-07-20 12:25:39",
+    "detections": [
+      {
+        "name": "mol5iya",
+        "confidence": 91.5,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 52.2,
+          "y1": 43.6,
+          "x2": 407.9,
+          "y2": 251.3
+        }
+      }
+    ]
   }
 ]
