@@ -208,5 +208,34 @@
         }
       }
     ]
+  },
+  {
+    "image": "20260720_141549_9928c8aa-0493-4092-b53f-2bccb225ed08.png",
+    "model": "cloth",
+    "timestamp": "2026-07-20 14:15:50",
+    "detections": [
+      {
+        "name": "Jallabeya",
+        "confidence": 90.2,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 535.3,
+          "y1": 451.1,
+          "x2": 1003.7,
+          "y2": 1400.1
+        }
+      },
+      {
+        "name": "Thobe",
+        "confidence": 88.8,
+        "conf_class": "high-conf",
+        "box": {
+          "x1": 55.2,
+          "y1": 543.4,
+          "x2": 457.5,
+          "y2": 1402.0
+        }
+      }
+    ]
   }
 ]
